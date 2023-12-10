@@ -1,8 +1,7 @@
 ### [dkzakka.github.io](https://dkzakka.github.io/)
 
-![image](https://github.com/dkzakka/dkzakka/assets/68973947/9943abbd-4d34-401c-8f4b-5006e0b6a751)
-
 ![image](https://github.com/dkzakka/dkzakka/blob/main/dkzakka_icon.jpg)
+
 
 * [デンマークで見つけたかわいい雑貨　2007以降](http://dkzakka.blog.shinobi.jp/)
 * [デンマークで見つけたかわいい雑貨　2007以前](https://dkzakka.exblog.jp/)
@@ -14,6 +13,7 @@
 * [コペンハーゲン通信](https://blog.goo.ne.jp/lentelentechunkokko)
 
 
+![image](https://github.com/dkzakka/dkzakka/assets/68973947/9943abbd-4d34-401c-8f4b-5006e0b6a751)
 
 <!--
 **dkzakka/dkzakka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
