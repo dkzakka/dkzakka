@@ -1,6 +1,8 @@
 ### [dkzakka.github.io](https://dkzakka.github.io/)
 
-![](https://github.com/dkzakka/dkzakka/blob/main/dkzakka_icon.jpg)
+![image](https://github.com/dkzakka/dkzakka/assets/68973947/9943abbd-4d34-401c-8f4b-5006e0b6a751)
+
+![image](https://github.com/dkzakka/dkzakka/blob/main/dkzakka_icon.jpg)
 
 * [デンマークで見つけたかわいい雑貨　2007以降](http://dkzakka.blog.shinobi.jp/)
 * [デンマークで見つけたかわいい雑貨　2007以前](https://dkzakka.exblog.jp/)
